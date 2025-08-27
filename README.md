@@ -6,11 +6,17 @@ A powerful web vulnerability scanner with a modern Dark Theme GUI built using Py
 ✨ Features
 
 · ✅ Beautiful Dark Theme GUI (ttkbootstrap)
+
 · ✅ SQLi detection (Reflected + Error-based)
+
 · ✅ XSS detection via payload reflection
+
 · ✅ Custom payloads support (payloads/ directory)
+
 · ✅ Progress bar & live logging console
+
 · ✅ Log saving for every scan
+
 · ✅ Theme switcher (20+ built-in themes!)
 
 🚀 Installation
@@ -26,7 +32,9 @@ pip install -r requirements.txt
 Requirements:
 
 · Python 3.8+
+
 · requests
+
 · ttkbootstrap
 
 Install dependencies manually if needed:
