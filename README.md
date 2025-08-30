@@ -42,10 +42,15 @@ Install dependencies manually if needed:
 ```bash
 pip install requests ttkbootstrap
 ```
-
+Run:
+```bash
+python3 scanner.py
+```
 📸 Demo
+<img width="1919" height="997" alt="scr" src="https://github.com/user-attachments/assets/38b2dcf2-c229-46f2-987d-1df179c17291" />
+<img width="1919" height="1050" alt="scr1" src="https://github.com/user-attachments/assets/2bd5d1d5-6e05-4186-96ea-39fecdc0cab4" />
 
-https://via.placeholder.com/800x500/222/fff?text=Advanced+Injection+Scanner+Demo
+
 
 🛡️ Disclaimer
 
